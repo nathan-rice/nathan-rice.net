@@ -1,2 +1,5 @@
 [project]
 name = nathan-rice.net
+
+[packages]
+lektor-markdown-highlighter = 0.1
